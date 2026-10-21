@@ -1,5 +1,5 @@
 <h1 align="center">Homesh Peter Paul</h1>
-<p align="center">Frontend or full-stack engineer</p>
+<p align="center">Full Stack Engineer - Creative UI/UX Designer - 10X Engineer - Game Dev</p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/galaxy?username=peterultimate&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F72966756%3Fu%3Dbb7b82ca4ada80365ac56b27203da0a8010f610c%26v%3D4" alt="peterultimate galaxy visual" />
